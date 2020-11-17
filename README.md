@@ -4,14 +4,6 @@
 
 React.js
 Material UI
-Firebase
-
-<a target="_blank" href="https://covid19trackerreact.ml/">Click here to view project</a>
-
-
-## Video demo
-
-
 
 ### `npm start`
 

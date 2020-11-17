@@ -18,6 +18,7 @@ import "leaflet/dist/leaflet.css";
 
 
 //https://disease.sh/v3/covid-19/countries
+//This API provides a big range of detailed information about multiple viruses.
 
 function App() {
   const [countries,setCountries]=useState([]);
